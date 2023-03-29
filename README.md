@@ -13,3 +13,4 @@ Developed controller:	 QSS_TB\Functions\controller.m
 
 
 Detailed instructions how to work with QSS toolbox are given in the Readme file in QSS_TB folder.
+! Windows only
