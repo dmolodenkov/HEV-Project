@@ -1,4 +1,4 @@
-# HEV-Project
+# HEV-Project ( ! Windows only )
 
 Rule-Based Energy Management System Design for a Parallel Mild Hybrid Electric Vehicle (PHEV) in MATLAB/Simulink. 
 The main idea is to reduce the fuel consumption of a PHEV compared to a conventional implementation of the same model. 
@@ -13,4 +13,3 @@ Developed controller:	 QSS_TB\Functions\controller.m
 
 
 Detailed instructions how to work with QSS toolbox are given in the Readme file in QSS_TB folder.
-! Windows only
