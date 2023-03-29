@@ -11,4 +11,5 @@ Developed model:	     QSS_TB\Model\qss_hybrid_electric_vehicle_new.mdl
 
 Developed controller:	 QSS_TB\Functions\controller.m
 
-Detailed instructions how to work with QSS toolbox are contained in the Readme file in QSS_TB folder.
+
+Detailed instructions how to work with QSS toolbox are given in the Readme file in QSS_TB folder.
